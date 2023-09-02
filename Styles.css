@@ -1,0 +1,43 @@
+/* Center the iframe within the div */
+div iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Style the iframe border and shadow (for fancier appearance) */
+iframe {
+    border: 2px solid #ddd;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Add some padding and margin to the div for spacing */
+div {
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+/* Style the h1 headers */
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+}
+
+/* Style the h2 headers */
+h2 {
+    color: #333;
+
+    font-size: 20px;
+}
+h3{
+    background-color: yellow;
+    color: black;
+
+    font-size: 25px;
+
+}
+h4{
+    text-align: left;
+    font-size: 20;
+    font: arial;
+}
